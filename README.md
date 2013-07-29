@@ -1,4 +1,4 @@
 pyreco
 ======
 
-Recommender system in python
+Recommender system in python.
